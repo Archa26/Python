@@ -16,7 +16,18 @@ for 5 days: 14/29
 for 10 days: 372/773
 
 
-Sample input
+Sample input:
+
 N1=5
 N2=10
+
+Sample Output:
+
+1.Number of ways to attend classes over 5 days=29
+2.Probability that the student will miss the graduation ceremony 14/29
+
+
+1.Number of ways to attend classes over 10 days=773
+2.Probability that the student will miss the graduation ceremony 372/773
+
 
