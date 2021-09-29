@@ -14,3 +14,9 @@ Represent the solution in the string format as "Answer of (2) / Answer of (1)", 
 Test cases:
 for 5 days: 14/29
 for 10 days: 372/773
+
+
+Sample input
+N1=5
+N2=10
+
